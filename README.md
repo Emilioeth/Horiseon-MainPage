@@ -6,7 +6,7 @@
   ## Description
   Official website template for Horiseon, a digitalization company
 
-  https://emilioeth.github.io/Horiseon-MainPage/
+  [Link](https://emilioeth.github.io/Horiseon-MainPage/)
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Emilioeth.Horiseon+MainPage&left_color=blue&right_color=blue)
 
